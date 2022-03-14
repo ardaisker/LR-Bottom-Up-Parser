@@ -4,11 +4,11 @@ Project is to construct a bottom-up LR parser by a Java program that follows gra
 ![Image](https://github.com/ardaisker/LR-Bottom-Up-Parser/blob/main/Images/parseTable_and_Grammar.jpg?raw=true)
 # Run Example
 ![Image](https://github.com/ardaisker/LR-Bottom-Up-Parser/blob/main/Images/runExample.png?raw=true)
-### The arguments for program "id+id*id$ cikti.txt" creates the following output:
+### The arguments "id+id*id$ cikti.txt" creates the following output:
 
 ![Image](https://github.com/ardaisker/LR-Bottom-Up-Parser/blob/main/Images/succesfullRun.png?raw=true)
 
-### The arguments for program "id++*id$ cikti.txt" creates the following output:
+### The arguments "id++*id$ cikti.txt" creates the following output:
 
 ![Image](https://github.com/ardaisker/LR-Bottom-Up-Parser/blob/main/Images/errorExample.jpg?raw=true)
 
